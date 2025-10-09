@@ -1,0 +1,7 @@
+{
+  "name": "Speech-to-Text Transcriber",
+  "description": "A real-time speech-to-text application that transcribes English spoken into a microphone. It allows users to select from available microphone devices.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
